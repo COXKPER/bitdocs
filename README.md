@@ -164,4 +164,4 @@ Copyright (c) 2025 neoncorp
 
 
 
-I can generate either file ready for upload (`setup.py` or `pyproject.toml` compatible).
+
